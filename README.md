@@ -6,7 +6,7 @@ I focus on backend architecture, distributed systems, microservices, concurrency
 
 ## Currently building
 
-### ScoresIQ
+### [ScoresIQ](https://www.scoresiq.com)
 
 **Founder & Product Engineer** of ScoresIQ, a social football prediction platform where users create private groups, predict match results, compete on live leaderboards, unlock achievements, and share tournament experiences with friends.
 
