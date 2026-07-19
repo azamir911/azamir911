@@ -22,6 +22,10 @@ Production-oriented Go service for atomic bulk transfers with PostgreSQL, idempo
 
 Thread-safe Go service that reconciles fragmented identities through dynamic graph merges and splits while maintaining incremental metrics and strong invariants.
 
+### [Coin-Flip Economy Simulator](https://github.com/azamir911/coin-flip-economy-simulator)
+
+Performance-oriented Go simulator with Monte Carlo and analytical modes, deterministic RNG, parallel execution, streaming CSV input, and synthetic load generation.
+
 ### [Concurrent Web Crawler](https://github.com/azamir911/concurrent-web-crawler)
 
 Concurrent web crawler in Go with bounded concurrency, deterministic output, graceful cancellation, and race-tested coordination.
