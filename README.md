@@ -22,6 +22,10 @@ Production-oriented Go service for atomic bulk transfers with PostgreSQL, idempo
 
 Thread-safe Go service that reconciles fragmented identities through dynamic graph merges and splits while maintaining incremental metrics and strong invariants.
 
+### [Organizational Mailbox API](https://github.com/azamir911/organizational-mailbox-api)
+
+Production-oriented Go API for querying organizational mailbox hierarchies with PostgreSQL materialized paths, rich filtering, pagination, and scoped access.
+
 ### [Coin-Flip Economy Simulator](https://github.com/azamir911/coin-flip-economy-simulator)
 
 Performance-oriented Go simulator with Monte Carlo and analytical modes, deterministic RNG, parallel execution, streaming CSV input, and synthetic load generation.
